@@ -1,73 +1,19 @@
-# Welcome to your Lovable project
+Project Title 
 
-## Project info
+ArogyaYatra – Smart Medical Tourism & Health Assistance Platform
 
-**URL**: https://lovable.dev/projects/d7e40ca2-10f0-4de3-8239-2e28e2c3d38d
+Description:
 
-## How can I edit this code?
+Designed and developed a healthcare + medical tourism web application integrating telemedicine, emergency SOS, hospital discovery, and IoT-based health monitoring.
 
-There are several ways of editing your application.
+Implemented real-time telemedicine chat with text, voice, and video consultation interfaces.
 
-**Use Lovable**
+Built an IoT health dashboard to visualize vitals like heart rate, SpO₂, temperature, and activity data.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/d7e40ca2-10f0-4de3-8239-2e28e2c3d38d) and start prompting.
+Developed an Emergency SOS system to share user location and medical details with emergency services.
 
-Changes made via Lovable will be committed automatically to this repo.
+Integrated medical travel features including hospital locator, appointment tracking, accommodation details, and flight status.
 
-**Use your preferred IDE**
+Designed a mobile-first, user-friendly UI using Tailwind CSS and ShadCN components.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/d7e40ca2-10f0-4de3-8239-2e28e2c3d38d) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Followed modular component architecture for scalability and maintainability.
